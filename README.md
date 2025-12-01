@@ -1,4 +1,4 @@
-# Chameleon-Button
+# Context Aware Button
 A simple UI component / front-end utility project named Chameleon-Button, intended to provide styled button(s) for web applications.
 
 ## Overview
